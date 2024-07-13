@@ -1,0 +1,246 @@
+Timestamp,Degree,Department,Which laptop brand do you use?,hours,What do you primarily use your laptop for? (Select all that apply),Which operating system do you prefer for your laptop?,Where do you usually purchase your laptops?,"How important are the following factors when considering a laptop purchase? (Scale: 1-5, 1 being not important, 5 being very important) [Performance]","How important are the following factors when considering a laptop purchase? (Scale: 1-5, 1 being not important, 5 being very important) [Battery Life]","How important are the following factors when considering a laptop purchase? (Scale: 1-5, 1 being not important, 5 being very important) [Portability]","How important are the following factors when considering a laptop purchase? (Scale: 1-5, 1 being not important, 5 being very important) [Price]","How important are the following factors when considering a laptop purchase? (Scale: 1-5, 1 being not important, 5 being very important) [Brand]","How important are the following factors when considering a laptop purchase? (Scale: 1-5, 1 being not important, 5 being very important) [Design/Aesthetics]"
+4/17/2024 18:23:31,Undergraduate,AI,Lenovo,5,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",2,2,1,4,2,1
+4/17/2024 19:48:18,Undergraduate,AI,Microsoft,7,"Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",3,2,4,5,3,4
+4/17/2024 18:27:30,Undergraduate,AI,HP,14,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,4,4,4,4
+4/17/2024 23:16:10,Undergraduate,AI,Acer,15,"Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,4,3,4,4,5
+4/17/2024 19:43:53,Undergraduate,AI,Xiaomi,17,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Linux,"Online (e.g., Amazon, manufacturer's website)",4,4,5,4,4,4
+4/17/2024 18:36:35,Undergraduate,AI,HP,18,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,"Online (e.g., Amazon, manufacturer's website)",5,4,4,3,4,4
+4/17/2024 18:39:36,Undergraduate,AI,Apple,19,"Education/Study, Entertainment (Streaming, Gaming, etc.)",macOS,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,5,5
+4/17/2024 18:22:57,Undergraduate,AI,Dell,20,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Linux,"Online (e.g., Amazon, manufacturer's website)",5,5,3,3,5,5
+4/17/2024 18:21:33,Undergraduate,AI,ASUS,21,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",4,3,1,5,3,1
+4/20/2024 23:34:57,Undergraduate,AI,HP,22,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,4,4,4,4,4
+4/19/2024 13:30:51,Undergraduate,AI,Dell,25,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media,",Windows,"Online (e.g., Amazon, manufacturer's website)",4,4,5,5,5,4
+4/18/2024 0:23:20,Undergraduate,AI,Acer,28,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",1,2,3,2,3,3
+4/18/2024 12:17:26,PhD,AI,ASUS,34,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,3,4,3
+4/17/2024 18:46:17,Postgraduate,AI,Dell,40,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,3,5,4,5,4
+4/17/2024 20:57:03,Postgraduate,AI,Apple,46,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",macOS,"Online (e.g., Amazon, manufacturer's website)",5,3,4,1,5,1
+4/17/2024 18:51:18,Undergraduate,AI,Dell,49,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",4,5,3,4,3,2
+4/17/2024 22:00:41,Postgraduate,AI,Apple,50,"Work/Professional use, Education/Study",macOS,"Online (e.g., Amazon, manufacturer's website)",4,4,5,5,5,4
+4/21/2024 13:30:49,PhD,AI,HP,50,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,4,3
+4/19/2024 19:52:16,Undergraduate,AI,Lenovo,7,Education/Study,Windows,"Retail Store (e.g., Best Buy, Walmart)",5,4,4,4,4,4
+4/19/2024 14:56:07,Undergraduate,AI,HP,10,Education/Study,Windows,"Retail Store (e.g., Best Buy, Walmart)",3,3,3,3,2,2
+4/19/2024 14:56:34,Undergraduate,AI,Dell,10,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",4,2,1,3,3,4
+4/17/2024 22:42:06,Undergraduate,AI,HP,15,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,"Retail Store (e.g., Best Buy, Walmart)",5,3,4,3,4,4
+4/17/2024 19:22:39,Undergraduate,AI,Samsung,17,"Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",3,3,3,2,2,3
+4/19/2024 12:58:13,Undergraduate,AI,HP,18,Education/Study,Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,3,3
+4/17/2024 18:27:42,Undergraduate,AI,HP,20,"Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,3,4,5,3,2
+4/19/2024 16:01:40,Undergraduate,AI,HP,20,"Work/Professional use, Education/Study",Windows,"Retail Store (e.g., Best Buy, Walmart)",4,4,4,4,4,3
+4/19/2024 17:00:51,Undergraduate,AI,Dell,23,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Linux,"Retail Store (e.g., Best Buy, Walmart)",5,4,3,4,4,3
+4/17/2024 23:55:23,Undergraduate,AI,HP,25,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Linux,"Retail Store (e.g., Best Buy, Walmart)",4,4,4,3,4,4
+4/17/2024 20:55:16,Undergraduate,AI,Samsung,28,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,4,4,4,4,2
+4/17/2024 18:37:02,Undergraduate,AI,HP,29,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",1,1,1,1,1,3
+4/19/2024 15:44:09,Undergraduate,AI,ASUS,35,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,"Retail Store (e.g., Best Buy, Walmart)",5,4,3,4,4,1
+4/17/2024 18:24:18,Undergraduate,AI,Lenovo,36,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,4,4,4,4
+4/17/2024 19:16:10,Undergraduate,AI,ASUS,47,"Work/Professional use, Education/Study, Creative Work (Graphic design, Video editing, etc.)",Linux,"Retail Store (e.g., Best Buy, Walmart)",5,3,4,1,1,3
+4/17/2024 18:27:03,Undergraduate,AI,Dell,5,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,Through a specific brand's store,4,5,4,3,4,2
+4/17/2024 22:25:11,Undergraduate,AI,Lenovo,5,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,Through a specific brand's store,5,5,5,5,5,5
+4/17/2024 22:23:04,Undergraduate,AI,HP,17,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,Through a specific brand's store,4,3,3,3,4,4
+4/17/2024 16:40:26,Undergraduate,AI,Dell,23,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,Through a specific brand's store,3,3,3,3,3,3
+4/18/2024 11:49:32,Undergraduate,AI,Dell,25,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,Through a specific brand's store,5,4,4,5,2,1
+4/17/2024 18:22:12,Undergraduate,AI,HP,38,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,Through a specific brand's store,4,4,3,3,4,3
+4/18/2024 1:46:50,Undergraduate,AI,Apple,40,"Work/Professional use, Education/Study",macOS,Through a specific brand's store,5,5,4,5,5,3
+4/17/2024 21:15:03,Postgraduate,BM,Dell,33,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,5,5
+4/19/2024 16:54:30,Postgraduate,BM,Lenovo,10,"Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",4,4,4,1,4,4
+4/17/2024 18:30:32,Undergraduate,BM,HP,31,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,2,4,2
+4/17/2024 22:09:34,Undergraduate,BM,Dell,13,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,Through a specific brand's store,5,2,2,4,4,3
+4/21/2024 16:45:57,PhD,BM,Dell,34,"Work/Professional use, Education/Study",Windows,Through a specific brand's store,5,5,5,4,4,2
+4/21/2024 21:44:46,PhD,BM,Apple,37,Work/Professional use,macOS,Through a specific brand's store,5,5,5,5,5,5
+4/17/2024 19:24:22,Undergraduate,BM,Dell,39,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,Through a specific brand's store,5,3,5,4,4,3
+4/17/2024 19:16:47,Undergraduate,BT,Lenovo,23,Education/Study,Windows,"Online (e.g., Amazon, manufacturer's website)",4,5,3,3,3,3
+4/17/2024 18:23:41,Postgraduate,BT,ASUS,34,"Work/Professional use, Education/Study, Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,4,5,5,3
+4/17/2024 18:19:27,Undergraduate,BT,HP,11,Education/Study,Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,5,5
+4/17/2024 18:39:59,Undergraduate,BT,Lenovo,20,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,3,4,3
+4/19/2024 11:51:37,Undergraduate,BT,HP,23,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,4,3,5,2,3
+4/19/2024 12:25:42,Undergraduate,CE,HP,10,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,Abroad,3,2,3,3,3,2
+4/17/2024 22:06:02,Undergraduate,CE,HP,14,"Work/Professional use, Education/Study, Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,4,5,5,3,4
+4/18/2024 12:13:59,Undergraduate,CE,HP,14,"Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,4,4,5,5,2
+4/19/2024 12:16:56,Undergraduate,CE,HP,23,Education/Study,Linux,"Online (e.g., Amazon, manufacturer's website)",1,2,2,1,2,3
+4/18/2024 15:27:01,Postgraduate,CE,ASUS,25,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,3,4,3,2
+4/18/2024 17:50:05,Undergraduate,CE,Lenovo,49,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,1,3,3,4
+4/17/2024 19:15:47,Undergraduate,CE,HP,11,Education/Study,Windows,"Retail Store (e.g., Best Buy, Walmart)",3,5,3,4,4,1
+4/17/2024 21:15:23,Undergraduate,CE,HP,12,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Windows and Linux,"Retail Store (e.g., Best Buy, Walmart)",5,5,3,5,3,3
+4/17/2024 18:37:29,Postgraduate,CE,ASUS,44,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,5,5
+4/17/2024 18:21:34,Undergraduate,CE,Dell,9,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Windows,Through a specific brand's store,5,5,5,5,5,5
+4/17/2024 21:11:11,Undergraduate,CE,HP,28,Education/Study,Windows,Through a specific brand's store,5,5,5,5,5,3
+4/17/2024 18:30:41,Undergraduate,CE,Dell,39,"Work/Professional use, Education/Study",Linux,Through a specific brand's store,5,5,5,3,4,4
+4/18/2024 9:57:45,Undergraduate,CE,HP,45,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Windows,Through a specific brand's store,5,4,3,3,4,2
+4/17/2024 20:54:28,Postgraduate,CE,HP,45,"Work/Professional use, Education/Study",Windows,Through a specific brand's store,3,3,3,3,2,2
+4/17/2024 23:14:53,Undergraduate,CH,Dell,5,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,3,3,1
+4/18/2024 10:28:00,Postgraduate,CH,Lenovo,11,"Work/Professional use, Education/Study",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,3,3
+4/17/2024 21:49:35,Undergraduate,CH,Dell,13,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,4,3,3,3
+4/18/2024 12:39:07,PhD,CH,HP,15,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,4,4,5,3,3
+4/19/2024 13:05:40,Undergraduate,CH,HP,18,"Education/Study, Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,3,4,5,2
+4/22/2024 8:51:05,PhD,CH,Dell,18,"Work/Professional use, Education/Study",Windows,"Online (e.g., Amazon, manufacturer's website)",4,4,4,5,2,2
+4/17/2024 20:46:50,Undergraduate,CH,Acer,19,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Online (e.g., Amazon, manufacturer's website)",5,4,4,5,3,3
+4/17/2024 18:49:32,Postgraduate,CH,Dell,35,"Work/Professional use, Education/Study, Social Media",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,4,4,4,4
+4/17/2024 18:25:09,Undergraduate,CH,Lenovo,37,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,5,5
+4/17/2024 18:45:18,Postgraduate,CH,Dell,40,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,5,5
+4/17/2024 18:29:55,Undergraduate,CH,Dell,43,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,3,4,4,3
+4/17/2024 18:38:30,Postgraduate,CH,MSI,48,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,4,4,5,3,4
+4/17/2024 22:04:16,Undergraduate,CH,HP,13,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,4,5,5,2,2
+4/17/2024 18:40:22,Undergraduate,CH,Apple,5,"Creative Work (Graphic design, Video editing, etc.)",macOS,Through a specific brand's store,1,1,1,1,1,1
+4/18/2024 14:06:39,PhD,Chemistry,ASUS,8,Education/Study,Windows,"Online (e.g., Amazon, manufacturer's website)",3,4,5,5,5,5
+4/18/2024 12:20:15,Postgraduate,Chemistry,HONOR,32,"Work/Professional use, Education/Study",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,3,3
+4/21/2024 13:24:32,PhD,Chemistry,Apple,45,"Work/Professional use, Education/Study",macOS,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,4,5,2
+4/18/2024 19:20:26,PhD,Chemistry,Lenovo,50,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,5,5
+4/18/2024 17:33:40,PhD,Chemistry,HP,50,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Windows,Through a specific brand's store,5,5,5,5,5,5
+4/19/2024 14:55:18,Undergraduate,CO,HP,10,Social Media,Windows,"Retail Store (e.g., Best Buy, Walmart)",4,3,4,5,4,4
+4/17/2024 18:49:31,Undergraduate,CO,HP,35,"Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Retail Store (e.g., Best Buy, Walmart)",1,1,1,1,1,1
+4/19/2024 13:38:20,Undergraduate,CS,ASUS,12,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,Abroad,5,5,4,3,4,3
+4/17/2024 22:24:19,Undergraduate,CS,HP,5,Education/Study,Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,5,5
+4/19/2024 12:18:35,Undergraduate,CS,HP,10,"Work/Professional use, Education/Study",Linux,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,5,5
+4/19/2024 12:16:01,Undergraduate,CS,HP,15,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",1,1,2,2,2,2
+4/21/2024 13:02:12,Undergraduate,CS,Dell,15,"Education/Study, Social Media",Windows,"Online (e.g., Amazon, manufacturer's website)",3,3,2,3,2,2
+4/17/2024 18:17:00,Undergraduate,CS,ASUS,18,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,"Online (e.g., Amazon, manufacturer's website)",4,4,4,4,4,4
+4/19/2024 12:18:38,Undergraduate,CS,ASUS,20,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,"Online (e.g., Amazon, manufacturer's website)",5,5,4,3,4,4
+4/21/2024 12:59:09,Undergraduate,CS,HP,20,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Online (e.g., Amazon, manufacturer's website)",3,3,3,3,3,3
+4/19/2024 12:40:45,Undergraduate,CS,HP,22,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,4,5,5,4
+4/17/2024 18:17:36,Postgraduate,CS,Apple,22,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,"Online (e.g., Amazon, manufacturer's website)",5,4,5,3,4,3
+4/19/2024 19:24:09,Undergraduate,CS,Apple,23,"Education/Study, Entertainment (Streaming, Gaming, etc.)",macOS,"Online (e.g., Amazon, manufacturer's website)",5,4,4,5,4,3
+4/21/2024 13:06:24,Undergraduate,CS,Lenovo,23,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,4,4,3,1
+4/20/2024 20:06:36,Undergraduate,CS,ASUS,25,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,3,3,3,3
+4/21/2024 13:40:00,Undergraduate,CS,Acer,25,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,4,4,5,5
+4/17/2024 18:21:08,Undergraduate,CS,ASUS,29,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,"Online (e.g., Amazon, manufacturer's website)",5,5,4,4,5,3
+4/21/2024 15:20:01,Undergraduate,CS,Lenovo,37,"Education/Study, Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",4,4,4,4,4,4
+4/21/2024 7:23:46,Undergraduate,CS,Lenovo,38,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,"Online (e.g., Amazon, manufacturer's website)",4,4,3,4,3,1
+4/18/2024 0:23:35,Undergraduate,CS,HP,40,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,"Online (e.g., Amazon, manufacturer's website)",5,5,3,4,3,5
+4/17/2024 18:26:25,Postgraduate,CS,Lenovo,41,"Education/Study, Research",Windows,"Online (e.g., Amazon, manufacturer's website)",5,3,2,3,3,3
+4/21/2024 13:37:38,PhD,CS,HP,43,"Work/Professional use, Education/Study",Linux,"Online (e.g., Amazon, manufacturer's website)",5,5,4,4,3,3
+4/17/2024 19:09:53,Undergraduate,CS,Apple,45,"Education/Study, Entertainment (Streaming, Gaming, etc.)",macOS,"Online (e.g., Amazon, manufacturer's website)",5,3,2,2,5,2
+4/20/2024 22:49:56,Undergraduate,CS,HP,47,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,3,5,2,2,4
+4/20/2024 22:44:48,Undergraduate,CS,Apple,49,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",macOS,"Online (e.g., Amazon, manufacturer's website)",5,4,3,1,3,5
+4/21/2024 13:38:51,Undergraduate,CS,Dell,50,"Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",3,3,3,2,3,3
+4/17/2024 19:00:24,Undergraduate,CS,ASUS,50,Education/Study,Linux,"Online (e.g., Amazon, manufacturer's website)",2,3,4,1,5,4
+4/17/2024 18:17:48,Undergraduate,CS,Dell,10,"Work/Professional use, Education/Study, Creative Work (Graphic design, Video editing, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,4,4,4
+4/21/2024 13:25:42,Undergraduate,CS,HP,15,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,5,4
+4/21/2024 17:08:50,Undergraduate,CS,HP,19,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",4,3,4,3,4,4
+4/21/2024 16:20:01,Undergraduate,CS,HP,22,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,"Retail Store (e.g., Best Buy, Walmart)",5,5,3,1,4,2
+4/18/2024 9:10:19,Undergraduate,CS,HP,25,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,5,5
+4/17/2024 22:20:39,Undergraduate,CS,HP,25,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,4,4,4,3
+4/19/2024 12:31:09,Undergraduate,CS,Dell,30,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,4,4,5,4
+4/19/2024 12:20:22,Undergraduate,CS,Dell,32,"Entertainment (Streaming, Gaming, etc.)",Linux,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,3,3
+4/17/2024 18:20:00,Undergraduate,CS,ASUS,37,Work/Professional use,Linux,"Retail Store (e.g., Best Buy, Walmart)",3,3,1,2,3,1
+4/17/2024 22:42:58,Undergraduate,CS,HP,40,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",3,3,3,2,3,3
+4/19/2024 13:17:16,Undergraduate,CS,HP,40,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,4,3,3,4,5
+4/17/2024 22:21:29,Undergraduate,CS,Dell,44,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,5,5
+4/17/2024 20:03:56,Undergraduate,CS,Apple,46,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",macOS,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,3,5,5
+4/22/2024 9:14:17,Undergraduate,CS,Dell,47,Education/Study,Windows,"Retail Store (e.g., Best Buy, Walmart)",4,3,4,4,4,3
+4/17/2024 18:39:24,Undergraduate,CS,Dell,48,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,4,4,5,5
+4/17/2024 18:50:04,Undergraduate,CS,Lenovo,49,"Work/Professional use, Education/Study, Creative Work (Graphic design, Video editing, etc.)",Linux,"Retail Store (e.g., Best Buy, Walmart)",5,4,4,4,3,3
+4/21/2024 12:57:37,Undergraduate,CS,Lenovo,10,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Windows,Through a specific brand's store,5,4,3,3,5,5
+4/21/2024 13:02:59,Undergraduate,CS,HP,10,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,Through a specific brand's store,5,5,4,5,3,3
+4/17/2024 19:04:49,Undergraduate,CS,Lenovo,13,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,Through a specific brand's store,3,3,1,2,2,3
+4/17/2024 18:21:53,Undergraduate,CS,HP,17,"Entertainment (Streaming, Gaming, etc.)",Linux,Through a specific brand's store,5,3,3,3,5,4
+4/17/2024 19:13:30,Undergraduate,CS,Lenovo,18,"Entertainment (Streaming, Gaming, etc.), Social Media, ANIME WATCHING, IPL WATCHING",FEDORA,Through a specific brand's store,5,4,4,5,5,1
+4/18/2024 8:24:12,Undergraduate,CS,HP,18,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,Through a specific brand's store,5,5,4,4,5,3
+4/18/2024 11:00:36,Undergraduate,CS,Lenovo,22,"Work/Professional use, Education/Study, Creative Work (Graphic design, Video editing, etc.)",Linux,Through a specific brand's store,4,5,4,4,3,3
+4/17/2024 22:59:09,Undergraduate,CS,HP,25,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,Through a specific brand's store,5,4,4,4,4,3
+4/18/2024 16:11:00,Undergraduate,CS,HP,25,Education/Study,Windows,Through a specific brand's store,4,4,4,3,4,4
+4/19/2024 15:33:46,Undergraduate,CS,HP,25,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,Through a specific brand's store,3,2,4,3,4,4
+4/17/2024 18:23:18,Undergraduate,CS,Acer,37,"Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,Through a specific brand's store,5,5,4,4,4,1
+4/20/2024 22:40:21,Undergraduate,CS,Lenovo,39,"Education/Study, Social Media",Windows,Through a specific brand's store,5,4,3,1,3,2
+4/17/2024 18:23:25,Undergraduate,CS,Dell,47,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,Through a specific brand's store,5,5,5,3,3,3
+4/21/2024 13:06:06,Undergraduate,CS,ASUS,48,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,Through a specific brand's store,5,3,4,2,5,3
+4/21/2024 12:52:02,Undergraduate,CS,Dell,18,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Windows,Through a specific brand's store,4,4,4,4,3,4
+4/21/2024 13:51:28,PhD,Design,ASUS,45,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",3,2,1,2,3,3
+4/22/2024 10:49:20,Undergraduate,Design,ASUS,50,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.), (this is a response to the last question in the part where it asks how important something is for consideration, i pick brand because of aftersale care/maintenance for the laptop)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,2,2,5,3,1
+4/19/2024 15:18:17,Undergraduate,ECE,Samsung,25,"Work/Professional use, Entertainment (Streaming, Gaming, etc.)",Linux,"Online (e.g., Amazon, manufacturer's website)",4,4,3,5,3,2
+4/19/2024 11:39:39,Undergraduate,ECE,HP,48,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.),",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,5,5
+4/22/2024 9:27:08,Undergraduate,ECE,Dell,50,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,Through a specific brand's store,5,5,5,3,5,5
+4/19/2024 11:40:44,Undergraduate,ECE,ASUS,15,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,4,3,5,5,5
+4/19/2024 12:21:21,Undergraduate,EE,Dell,42,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Dualboot of windows and linux,Abroad,4,5,5,4,4,4
+4/17/2024 21:17:49,Postgraduate,EE,ASUS,5,"Work/Professional use, Education/Study",Linux,"Online (e.g., Amazon, manufacturer's website)",5,5,5,4,3,2
+4/21/2024 13:25:44,Postgraduate,EE,ASUS,13,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",4,5,4,4,5,3
+4/17/2024 19:40:44,Undergraduate,EE,Lenovo,14,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,3,5,3,4
+4/19/2024 13:28:32,Undergraduate,EE,Apple,15,"Education/Study, Entertainment (Streaming, Gaming, etc.)",macOS,"Online (e.g., Amazon, manufacturer's website)",5,5,4,5,5,1
+4/17/2024 19:19:02,Postgraduate,EE,ASUS,15,"Work/Professional use, Education/Study",Windows,"Online (e.g., Amazon, manufacturer's website)",2,3,3,3,2,1
+4/17/2024 19:10:07,Undergraduate,EE,HP,17,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,4,4,2,3,2
+4/19/2024 12:44:52,Undergraduate,EE,Lenovo,25,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,"Online (e.g., Amazon, manufacturer's website)",4,4,4,3,2,2
+4/19/2024 11:48:43,Undergraduate,EE,ASUS,38,"Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,4,3,2
+4/22/2024 17:24:15,Postgraduate,EE,ASUS,41,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,4,4,5,4,3
+4/17/2024 18:36:29,Undergraduate,EE,HP,47,"Work/Professional use, Education/Study",Windows,"Online (e.g., Amazon, manufacturer's website)",3,3,3,2,3,2
+4/19/2024 12:21:03,Undergraduate,EE,Lenovo,48,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,5,5
+4/19/2024 12:33:54,Undergraduate,EE,HP,12,"Education/Study, Creative Work (Graphic design, Video editing, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",3,3,3,3,3,3
+4/19/2024 12:03:02,Undergraduate,EE,Dell,20,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",4,4,4,5,5,3
+4/17/2024 18:23:55,Undergraduate,EE,Apple,22,"Education/Study, Social Media",macOS,"Retail Store (e.g., Best Buy, Walmart)",1,2,2,1,2,1
+4/19/2024 12:50:05,Undergraduate,EE,HP,32,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Retail Store (e.g., Best Buy, Walmart)",4,3,4,4,4,3
+4/17/2024 18:36:13,Postgraduate,EE,ASUS,33,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,4,4,3
+4/21/2024 14:22:35,Postgraduate,EE,Dell,33,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,4,4
+4/18/2024 0:30:17,Undergraduate,EE,ASUS,49,"Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,4,4,4,5,4
+4/17/2024 21:22:37,Undergraduate,EE,HP,50,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,4,5,4,3
+4/19/2024 23:38:02,Undergraduate,EE,HP,10,Education/Study,Windows,Through a specific brand's store,3,2,3,2,3,3
+4/17/2024 18:22:11,Undergraduate,EE,HP,11,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,Through a specific brand's store,5,4,4,4,4,3
+4/19/2024 15:06:53,Undergraduate,EE,Dell,25,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,Through a specific brand's store,5,5,4,4,3,3
+4/17/2024 18:18:28,Undergraduate,EE,Lenovo,35,"Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Linux,Through a specific brand's store,5,3,2,3,4,3
+4/17/2024 21:41:25,Undergraduate,EE,Dell,50,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Linux,Through a specific brand's store,5,5,3,5,4,3
+4/17/2024 18:27:16,Undergraduate,EP,Lenovo,25,"Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",3,3,3,2,2,2
+4/19/2024 15:34:19,Undergraduate,EP,HP,42,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,3,4,3
+4/17/2024 18:44:16,Undergraduate,EP,Dell,15,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,4,4,5,3,5
+4/17/2024 19:20:30,Undergraduate,EP,HP,22,"Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",4,4,5,5,3,2
+4/17/2024 18:20:14,Undergraduate,EP,Dell,28,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",4,4,3,3,4,2
+4/18/2024 12:24:54,Undergraduate,EP,HP,20,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,Through a specific brand's store,5,4,3,4,4,3
+4/17/2024 21:28:51,Undergraduate,EP,ASUS,23,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,Through a specific brand's store,5,5,3,3,5,3
+4/17/2024 18:33:10,Undergraduate,EP,Dell,45,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Windows,Through a specific brand's store,3,2,2,2,2,2
+4/17/2024 21:17:58,Undergraduate,ES,Dell,12,"Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,5,5
+4/19/2024 16:52:54,Undergraduate,ES,HP,20,Social Media,Linux,"Online (e.g., Amazon, manufacturer's website)",4,4,4,4,4,4
+4/19/2024 15:00:18,Undergraduate,ES,Apple,31,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",macOS,"Online (e.g., Amazon, manufacturer's website)",5,5,5,4,5,5
+4/17/2024 18:29:20,Undergraduate,ES,Apple,39,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",macOS,"Online (e.g., Amazon, manufacturer's website)",4,5,5,5,5,5
+4/17/2024 18:21:53,Undergraduate,ES,HP,42,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",4,3,3,4,5,1
+4/17/2024 20:52:03,Undergraduate,ES,Lenovo,44,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,3,3,5,4,3
+4/19/2024 12:08:11,Undergraduate,ES,Lenovo,12,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,4,3,4,5
+4/17/2024 18:46:05,Undergraduate,ES,ASUS,30,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,3,2,4
+4/17/2024 18:16:57,Undergraduate,ES,Lenovo,45,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,4,4
+4/19/2024 3:20:13,Undergraduate,ES,HP,12,"Education/Study,",Linux,Through a specific brand's store,5,5,3,3,3,3
+4/17/2024 21:54:59,Undergraduate,ES,Dell,44,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,Through a specific brand's store,4,5,2,4,4,3
+4/18/2024 9:45:04,Undergraduate,IC DESIGN,HP,40,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,4,4
+4/19/2024 13:39:14,Undergraduate,IC DESIGN,Dell,18,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",4,4,4,4,4,4
+4/18/2024 0:00:07,Undergraduate,IC DESIGN,HP,30,"Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,5,5
+4/17/2024 18:24:46,Undergraduate,IC DESIGN,ASUS,35,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,4,3,5,5,5
+4/17/2024 22:22:11,Undergraduate,IC DESIGN,HP,35,Education/Study,Windows,Through a specific brand's store,5,5,5,5,3,3
+4/18/2024 12:10:49,Postgraduate,Inter Disciplinary(ID),Samsung,9,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,4,5,4,5,5
+4/21/2024 13:27:38,Postgraduate,Inter Disciplinary(ID),Lenovo,50,"Work/Professional use, Education/Study",Windows,"Online (e.g., Amazon, manufacturer's website)",4,3,5,5,5,2
+4/18/2024 12:24:07,Postgraduate,Inter Disciplinary(ID),MSI,50,"Work/Professional use, Education/Study",Windows,"Online (e.g., Amazon, manufacturer's website)",5,4,4,4,4,4
+4/21/2024 14:10:06,Postgraduate,Inter Disciplinary(ID),ASUS,30,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Retail Store (e.g., Best Buy, Walmart)",4,3,3,5,3,5
+4/17/2024 18:19:51,Undergraduate,MA,Dell,22,"Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,3,5
+4/18/2024 12:00:43,PhD,MA,ASUS,28,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,3,5,4,1
+4/17/2024 20:03:37,Undergraduate,MA,HP,34,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media, Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",4,5,4,4,4,4
+4/17/2024 23:32:51,Undergraduate,MA,HP,45,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,3,4,3,3
+4/19/2024 16:03:58,Undergraduate,MA,Dell,45,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,3,4,4,1
+4/17/2024 19:51:23,Postgraduate,MA,HP,45,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",3,3,3,1,3,3
+4/17/2024 19:36:41,Undergraduate,MA,HP,49,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,5,5
+4/21/2024 15:56:59,PhD,MA,HP,9,Education/Study,Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,4,5,4,3
+4/17/2024 18:29:03,Undergraduate,MA,Apple,30,"Education/Study, Entertainment (Streaming, Gaming, etc.)",macOS,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,5,5
+4/17/2024 22:00:30,Undergraduate,MA,ASUS,33,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,4,3,5,2,2
+4/19/2024 17:37:37,Undergraduate,MA,Dell,34,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,5,5
+4/20/2024 11:49:34,Undergraduate,MA,HP,34,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Linux,"Retail Store (e.g., Best Buy, Walmart)",5,4,5,4,5,5
+4/17/2024 23:33:31,Postgraduate,MA,Dell,35,"Education/Study, Social Media",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,4,4,5,4
+4/17/2024 22:25:49,Undergraduate,MA,Dell,15,Education/Study,Linux,Through a specific brand's store,5,4,2,2,5,2
+4/17/2024 19:35:27,Undergraduate,MA,HP,23,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,Through a specific brand's store,5,3,3,4,4,3
+4/17/2024 19:49:41,Undergraduate,MA,Apple,45,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",macOS,Through a specific brand's store,5,5,3,2,1,1
+4/21/2024 15:28:42,Undergraduate,ME,HP,10,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,4,4,5,5,4
+4/18/2024 14:39:02,PhD,ME,HP,10,Education/Study,Windows,"Online (e.g., Amazon, manufacturer's website)",2,2,2,2,2,2
+4/18/2024 13:49:03,Undergraduate,ME,MSI,18,"Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,4,4,4,5,4
+4/18/2024 0:53:13,Undergraduate,ME,Dell,25,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,3,2,4,5,5
+4/21/2024 15:21:42,Undergraduate,ME,HP,28,"Entertainment (Streaming, Gaming, etc.)",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,5,5,5
+4/17/2024 18:20:31,Undergraduate,ME,Microsoft,8,Social Media,Linux,"Retail Store (e.g., Best Buy, Walmart)",3,3,1,3,2,3
+4/19/2024 12:04:32,Undergraduate,ME,Lenovo,10,"Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,5,5
+4/17/2024 18:20:15,Undergraduate,ME,HP,14,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Retail Store (e.g., Best Buy, Walmart)",4,4,3,3,4,3
+4/21/2024 16:10:30,Postgraduate,ME,ASUS,16,"Work/Professional use, Education/Study",Windows,"Retail Store (e.g., Best Buy, Walmart)",4,4,4,4,4,4
+4/17/2024 18:21:59,Undergraduate,ME,HP,22,"Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,3,2,4,1,1
+4/21/2024 13:21:22,PhD,ME,HP,25,"Work/Professional use, Education/Study",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,4,4,4,5,5
+4/21/2024 19:08:42,Postgraduate,ME,Lenovo,25,"Work/Professional use, Education/Study",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,3,2,4,4,3
+4/17/2024 18:22:20,Undergraduate,ME,Apple,29,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",macOS,"Retail Store (e.g., Best Buy, Walmart)",4,5,4,3,3,3
+4/19/2024 13:16:01,Undergraduate,ME,HP,30,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,4,4,3,4
+4/19/2024 12:08:57,Undergraduate,ME,Dell,40,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",4,4,4,4,4,4
+4/19/2024 13:31:11,Undergraduate,ME,ASUS,42,"Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,"Retail Store (e.g., Best Buy, Walmart)",5,5,4,3,2,3
+4/19/2024 17:49:25,Undergraduate,ME,HP,50,Education/Study,Windows,"Retail Store (e.g., Best Buy, Walmart)",5,4,4,4,5,5
+4/17/2024 18:24:38,Undergraduate,ME,Dell,40,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Linux,Through a specific brand's store,5,5,4,3,2,5
+4/17/2024 22:40:59,Postgraduate,ME,Sony,40,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,Through a specific brand's store,4,5,4,5,5,3
+4/21/2024 15:24:39,Undergraduate,ME,Lenovo,43,"Work/Professional use, Education/Study, Entertainment (Streaming, Gaming, etc.), Social Media",Windows,Through a specific brand's store,5,5,5,5,5,5
+4/18/2024 0:36:52,Undergraduate,ME,Dell,45,"Work/Professional use, Education/Study",Linux,Through a specific brand's store,5,5,5,5,5,5
+4/21/2024 13:39:39,PhD,MSME,Acer,46,Work/Professional use,Windows,Abroad,5,5,4,5,5,4
+4/17/2024 18:32:20,Undergraduate,MSME,HP,43,"Work/Professional use, Education/Study",Windows,"Online (e.g., Amazon, manufacturer's website)",5,5,5,4,4,3
+4/19/2024 17:01:19,Undergraduate,MSME,HP,29,Education/Study,macOS,"Retail Store (e.g., Best Buy, Walmart)",5,5,5,5,5,5
+4/17/2024 22:01:28,Undergraduate,MSME,Lenovo,11,"Education/Study, Entertainment (Streaming, Gaming, etc.), Creative Work (Graphic design, Video editing, etc.)",Windows,Through a specific brand's store,5,5,3,5,5,3
+4/21/2024 22:14:45,PhD,Physics,Lenovo,42,"Work/Professional use, Education/Study",Linux,"Online (e.g., Amazon, manufacturer's website)",5,5,5,2,3,2
+4/18/2024 15:19:07,Undergraduate,Physics,HP,25,Education/Study,Windows,"Retail Store (e.g., Best Buy, Walmart)",3,3,3,3,3,3
